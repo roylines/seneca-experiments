@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/roylines/seneca-experiments",
   "dependencies": {
-    "seneca": "^0.5.20"
+    "seneca": "^0.6.0"
   }
 }
